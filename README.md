@@ -1,5 +1,5 @@
 # Tableau-Dashboard---Video-Games-Sales
-Tableau Dashboard  for Video Games Sales. 
+
 **Data source:-**  https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download&select=vgsales.csv
 
 **Dashboard link:-**
